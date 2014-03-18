@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C65A333-5CFC-4419-9DF8-DBA42F18ACB9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpeedTesterTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6D49596-176A-4ECE-ABA7-52B93A7C034B</key>
+		<string>https://github.com/devjyon/SpeedTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpeedTesterTest/SpeedTesterTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6D49596-176A-4ECE-ABA7-52B93A7C034B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/devjyon/SpeedTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6D49596-176A-4ECE-ABA7-52B93A7C034B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6D49596-176A-4ECE-ABA7-52B93A7C034B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpeedTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
